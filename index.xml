@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric Gitonga</title>
+    <link>https://gitonga86.github.io/portfolio/</link>
+    <description>Recent content on Eric Gitonga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 May 2020 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://gitonga86.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Ecommerce Exploratory Data Analysis</title>
+      <link>https://gitonga86.github.io/portfolio/post/project-1/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      <guid>https://gitonga86.github.io/portfolio/post/project-1/</guid>
+      <description>Identify Key Metrics: Determined the most critical metrics for you the e-commerce business, such as sales, inventory, customer behavior, marketing performance, etc Data integration and Query: Performed Queries in the SQL database to determine the values of the KPI. It is useful to counter check the chart values with the query values. Choose a Visualization Tool: Selected the visualization tool as per company specification, in this case Power BI Design the Dashboard Layout: Planed the layout of the dashboard, considering which metrics should be displayed together and how they should be organized for easy comprehension.</description>
+    </item>
+    <item>
+      <title>Project 2: Video Documented Analysis: Pizza Sales EDA</title>
+      <link>https://gitonga86.github.io/portfolio/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <guid>https://gitonga86.github.io/portfolio/post/project-2/</guid>
+      <description>Documenting a visualization created with Power BI through a video holds significant importance due to several key reasons: Visual Demonstration: Power BI involves working with data, and videos can visually demonstrate how to manipulate, transform, and visualize data within the platform. Visual demonstrations can enhance understanding and retention of concepts. Interactive Explanation: Videos allow for interactive explanations, where creators can highlight specific features, interactions, or functions within Power BI. This interactivity can elucidate nuances that might be challenging to convey solely through written documentation.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://gitonga86.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gitonga86.github.io/portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.&#xA;Platform URL YouTube: https://www.youtube.com/ instagram: https://www.instagram.com/gitonga_2.0/ Twitter: https://twitter.com/ LinkedIn: https://www.linkedin.com/in/eric-gitonga-knight Medium: https://medium.com/ GitHub: https://github.com/ </description>
+    </item>
+  </channel>
+</rss>
